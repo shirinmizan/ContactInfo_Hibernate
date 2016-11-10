@@ -1,4 +1,4 @@
-# ContactInfo_Hibernate
+# SmartContacts
 
 Maven is used in this project to wire dependencies for Hibernate ORM (Object relational mapping). 
 
